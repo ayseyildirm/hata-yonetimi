@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\pratikler\hata-yonetimi\bin\Debug\net8.0\hata-yonetimi.exe
+C:\Users\Lenovo\Desktop\pratikler\hata-yonetimi\bin\Debug\net8.0\hata-yonetimi.deps.json
+C:\Users\Lenovo\Desktop\pratikler\hata-yonetimi\bin\Debug\net8.0\hata-yonetimi.runtimeconfig.json
+C:\Users\Lenovo\Desktop\pratikler\hata-yonetimi\bin\Debug\net8.0\hata-yonetimi.dll
+C:\Users\Lenovo\Desktop\pratikler\hata-yonetimi\bin\Debug\net8.0\hata-yonetimi.pdb
+C:\Users\Lenovo\Desktop\pratikler\hata-yonetimi\obj\Debug\net8.0\hata-yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\pratikler\hata-yonetimi\obj\Debug\net8.0\hata-yonetimi.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\pratikler\hata-yonetimi\obj\Debug\net8.0\hata-yonetimi.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\pratikler\hata-yonetimi\obj\Debug\net8.0\hata-yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\pratikler\hata-yonetimi\obj\Debug\net8.0\hata-yonetimi.dll
+C:\Users\Lenovo\Desktop\pratikler\hata-yonetimi\obj\Debug\net8.0\refint\hata-yonetimi.dll
+C:\Users\Lenovo\Desktop\pratikler\hata-yonetimi\obj\Debug\net8.0\hata-yonetimi.pdb
+C:\Users\Lenovo\Desktop\pratikler\hata-yonetimi\obj\Debug\net8.0\hata-yonetimi.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\pratikler\hata-yonetimi\obj\Debug\net8.0\ref\hata-yonetimi.dll
